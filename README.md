@@ -1,5 +1,5 @@
 # CSS XIAOMI
 #
-![alt text](http://url/to/resultado.png)
+![alt text](https://github.com/juliovt-07/Css-Xiaomi/resultado.png)
 ## Horas atualizadas pelo time.js
 #
